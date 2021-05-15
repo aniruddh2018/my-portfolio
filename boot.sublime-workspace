@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"gam",
+				"Game"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"te",
+				"text-big"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"re",
+				"req\trequire …"
+			],
+			[
+				"req",
+				"req1\trequire_once …"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"qu",
+				"queryfire"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"username_err"
+			],
+			[
+				"DB",
+				"DB_NAME"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"o",
+				"or"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"w",
+				"while"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"exam",
+				"exampass"
+			],
+			[
+				"exa",
+				"examfail"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"av",
+				"avg_num"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"n",
+				"new_list"
+			],
+			[
+				"m",
+				"my_list"
+			],
+			[
+				"str",
+				"strcount"
+			],
+			[
+				"zi",
+				"zipped"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"b",
+				"book"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"an",
+				"ani"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload:disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"if ($GLOBALS['dblist']->databases->exists('phpMyAdmin'))\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/PORTFOLIO_WEBSITE_IN_HTML_JAVASCRIPT_WITH_SOURCE_CODE/portfolio/index.html",
+		"/D/nv sir nlm/resp.js",
+		"/D/JavaScript Dragon Game/JavaScript Dragon Game/script.js",
+		"/D/JavaScript Dragon Game/JavaScript Dragon Game/index.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Videos/index1.html",
+		"/D/game/index.html",
+		"/D/game/script.js",
+		"/D/game/style.css",
+		"/D/JavaScript Dragon Game/JavaScript Dragon Game/style.css",
+		"/D/nv sir nlm/css/style.css",
+		"/D/nv sir nlm/index.html",
+		"/C/Users/ANIRUDDHA PATIDAR/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/bootstrap-4.3.1-dist.zip",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/PORTFOLIO_WEBSITE_IN_HTML_JAVASCRIPT_WITH_SOURCE_CODE/portfolio/main.js",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/PORTFOLIO_WEBSITE_IN_HTML_JAVASCRIPT_WITH_SOURCE_CODE/portfolio/boot.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/ANIL_RESUME_NEW (1).doc",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/covid",
+		"/C/Users/ANIRUDDHA PATIDAR/Videos/New folder/recur.py",
+		"/C/Users/ANIRUDDHA PATIDAR/Videos/SOL.py",
+		"/H/Humsafar (Full Video)Varun & Alia BhattAkhil SachdevaBadrinath Ki Dulhania (1).mp3",
+		"/C/xampp/htdocs/ecommerce/activate.php",
+		"/C/xampp/htdocs/ecommerce/includes/navbar.php",
+		"/C/xampp/htdocs/ecommerce/includes/footer.php",
+		"/C/xampp/htdocs/ecommerce/admin/transact.php",
+		"/C/xampp/htdocs/my own lg/static/resoapp/css/jee chem theory/GOC in 40 minutes! Quick Revision! - General Organic Chemistry ¦ JEE & NEET Chemistry ¦ Pahul Sir.mp4",
+		"/C/Program Files/nodejs/node_modules/npm/docs/LICENSE",
+		"/C/xampp/htdocs/my own lg/login.php",
+		"/C/xampp/htdocs/my own lg/register.php",
+		"/C/xampp/htdocs/my own lg/logout.php",
+		"/C/xampp/htdocs/my own lg/welcome.php",
+		"/C/xampp/htdocs/my own lg/read me .txt",
+		"/C/xampp/htdocs/my own lg/config.php",
+		"/C/xampp/htdocs/my own lg/an.php",
+		"/C/xampp/htdocs/code/welcome.php",
+		"/C/xampp/htdocs/my own lg/index.php",
+		"/C/xampp/htdocs/code/log.php",
+		"/C/xampp/htdocs/my own lg/query-mysqli.php",
+		"/C/xampp/htdocs/code/well.php",
+		"/D/PycharmProject/py1.py",
+		"/D/PycharmProject/py2.py",
+		"/D/PycharmProject/un.py",
+		"/C/xampp/phpMyAdmin/libraries/classes/DatabaseInterface.php",
+		"/D/PycharmProject/un.pu",
+		"/C/xampp/htdocs/code/ANIRU.PHP",
+		"/C/xampp/htdocs/measurement-conversion/Styles.css",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/bus.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/bascal.js",
+		"/C/xampp/htdocs/code/calc",
+		"/C/xampp/htdocs/code/calc.html",
+		"/C/xampp/htdocs/code/calc-contain.css",
+		"/C/xampp/htdocs/code/as.html",
+		"/C/xampp/htdocs/code/calc-contai",
+		"/C/xampp/htdocs/code/calc.php",
+		"/I/Measurement_conversion_In_PHP_With_Source_Code/measurement-conversion/a.html",
+		"/I/Measurement_conversion_In_PHP_With_Source_Code/measurement-conversion/volume.php",
+		"/I/Measurement_conversion_In_PHP_With_Source_Code/measurement-conversion/speed.php",
+		"/C/xampp/htdocs/measurement-conversion/temperature.php",
+		"/C/xampp/htdocs/ch-ro-pr/chatroom.sql",
+		"/I/e coome/Ecommerce Site PHP/ecommerce/database/ecomm.sql",
+		"/C/xampp/htdocs/dashboard/stylesheets/all.css",
+		"/C/xampp/htdocs/ecommerce/build/js/TodoList.js",
+		"/C/xampp/htdocs/bitnami.css",
+		"/C/xampp/htdocs/tutpr/bas1.php",
+		"/C/xampp/htdocs/tutpr/bas5.html",
+		"/C/xampp/htdocs/tutpr/bas4.html",
+		"/C/xampp/htdocs/tutpr/an.js",
+		"/C/xampp/htdocs/tutpr/ad1.php",
+		"/C/xampp/htdocs/tutpr/bas4.php",
+		"/C/xampp/htdocs/tutpr/bas3.php",
+		"/C/xampp/htdocs/tutpr/bas2.php",
+		"/C/xampp/htdocs/login sys/welcome.php",
+		"/C/xampp/htdocs/login sys/register.php",
+		"/C/xampp/htdocs/login sys/logout.php",
+		"/C/xampp/htdocs/login sys/login.php",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/otp",
+		"/C/xampp/htdocs/practise/style.css",
+		"/C/xampp/htdocs/practise/newMessage.css",
+		"/C/xampp/htdocs/practise/navbar.css",
+		"/C/xampp/htdocs/practise/inbox.css",
+		"/C/xampp/htdocs/practise/register.php",
+		"/C/xampp/htdocs/practise/newMessage.php",
+		"/C/xampp/htdocs/practise/Inbox.php",
+		"/C/xampp/htdocs/practise/navbar.php",
+		"/C/xampp/htdocs/practise/login.php",
+		"/C/xampp/htdocs/practise/furkan.sql",
+		"/C/xampp/htdocs/practise/jack.sql",
+		"/C/xampp/htdocs/practise/oliver.sql",
+		"/C/xampp/htdocs/practise/users_july.sql",
+		"/C/xampp/htdocs/practise/add.php",
+		"/C/xampp/htdocs/practise/connect.php",
+		"/C/xampp/htdocs/practise/createTable.php",
+		"/C/xampp/htdocs/practise/homepage.php",
+		"/C/xampp/htdocs/practise/index.php",
+		"/C/xampp/htdocs/practise/OTP.php",
+		"/C/xampp/htdocs/practise/OTP",
+		"/C/xampp/htdocs/login sys/config.php",
+		"/C/xampp/htdocs/code/logout.php",
+		"/C/xampp/htdocs/code/login.php",
+		"/C/xampp/htdocs/code/register.php",
+		"/C/xampp/htdocs/code/config.php",
+		"/C/xampp/htdocs/code/data.php",
+		"/C/xampp/htdocs/code/ac.php",
+		"/C/xampp/htdocs/code/form.php",
+		"/C/xampp/htdocs/code/fourth.php",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/appp.php",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/un11.py",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/un10.py",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/un09.py",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/memeorizer.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/var.ja.js",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/tut.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/sty",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/cssst.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/tic toe .html",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/play.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/memeorizer.html ",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/memorizer",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/music player/des.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/premain.js",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/console_example1.js",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/Untitled Folder 1/thr.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/Untitled Folder 1/cs.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/Untitled Folder 1/sec.js",
+		"/C/Users/ANIRUDDHA PATIDAR/Desktop/node console_example1.js",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/Untitled Folder 1/vid.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/Untitled Folder 1/dinasor.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/Untitled Folder 1/eigh.html",
+		"/C/Users/ANIRUDDHA PATIDAR/Downloads/Untitled Folder 1/sev.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "boot.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\projects\\telusko\\calc\\tests.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
